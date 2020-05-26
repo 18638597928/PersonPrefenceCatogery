@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (32)
+  - PersonPrefenceCatogery (0.1):
+    - CTMediator
+
+DEPENDENCIES:
+  - PersonPrefenceCatogery (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  PersonPrefenceCatogery:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
+  PersonPrefenceCatogery: 86641f364e5e92d61d49f04c7189ab11a56000e7
+
+PODFILE CHECKSUM: da0b0135515c3ef07133b349ff49ef7530467aad
+
+COCOAPODS: 1.7.5
